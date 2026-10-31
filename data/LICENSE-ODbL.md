@@ -63,8 +63,3 @@ it says so.*
 > License: https://opendatacommons.org/licenses/dbcl/1-0/.
 > © OpenStreetMap contributors — https://www.openstreetmap.org/copyright.
 > Built by HereMinder's `build.py` (published alongside, with `StoreTable-format.md`, the byte layout).
-
-## Not done here (binding scope)
-
-Publishing the table is Alex's (`publish/README.md`); **before build 81 reaches anyone but Alex**, the
-file must be hosted. The in-app credit lands in AP-13 BK.
